@@ -13,3 +13,8 @@ sum = num1 + num2;
 printf("The sum of %d and %d is %d\n", num1, num2, sum);
 return 0; 
 }
+
+output:
+Enter the first number: 5
+enter the second number: 10
+The sum of 5 and 10 is 15
